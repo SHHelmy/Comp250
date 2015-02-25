@@ -1,0 +1,16 @@
+HospitalID,DoctorID,Date,DoctorNote
+32342,33243,12-15-2014,The patient has severe fever
+90544,238910,02-11-2014,The patient should have more fruits
+2349,8920,04-29-2014,The patient needs to change medication
+32190,238910,05-01-2014,Needs a vacation from stressful work
+782930,33243,01-06-2014,Go to the Bahamas for 2 weeks
+32342,238910,08-21-2014,Stop taking medication
+32342,238910,09-13-2014,Pancreas is healthy
+2349,238910,11-12-2014,Take vitamin supplements
+2349,33243,12-28-2014,Increase Basal rate
+2349,33243,12-13-2014,Might be able to test closed loop system
+90544,238910,01-05-2014,decrease weekly basal level
+32190,8920,04-19-2014,Improving very quickly
+782930,33243,06-17-2014,In good health
+32190,238910,03-26-2014,Regular checkup complete: healthy
+782930,8920,02-19-2014,Needs more Vitamin D supplements
